@@ -1,6 +1,6 @@
 [
 {
-		"name": "Chieftain",
+		"name": "Chieftain +4 settlers",
 		"baseHappiness": 12,
 		"extraHappinessPerLuxury": 1,
 		"researchCostModifier": 0.95,
@@ -21,7 +21,7 @@
 		"aiUnitMaintenanceModifier": 1,
 		"aiUnitSupplyModifier": 0,
 		"aiFreeTechs": [],
-		"aiMajorCivBonusStartingUnits": [],
+		"aiMajorCivBonusStartingUnits": [Settler,Settler,Settler,Settler,Scout,Scout],
 		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 1,
 		"aisExchangeTechs": false,
@@ -29,7 +29,7 @@
 		"clearBarbarianCampReward": 40
 	},
 	{
-		"name": "Warlord",
+		"name": "Warlord +4 settlers",
 		"baseHappiness": 12,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
@@ -50,7 +50,7 @@
 		"aiUnitMaintenanceModifier": 1,
 		"aiUnitSupplyModifier": 0.1,
 		"aiFreeTechs": [],
-		"aiMajorCivBonusStartingUnits": [],
+		"aiMajorCivBonusStartingUnits": [Settler,Settler,Settler,Settler,Warrior,Scout],
 		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 1,
 		"aisExchangeTechs": false,
@@ -58,7 +58,7 @@
 		"clearBarbarianCampReward": 30
 	},
 	{
-		"name": "Prince",
+		"name": "Prince +4 settlers",
 		"baseHappiness": 9,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
@@ -79,7 +79,7 @@
 		"aiUnitMaintenanceModifier": 0.85,
 		"aiUnitSupplyModifier": 0.2,
 		"aiFreeTechs": [],
-		"aiMajorCivBonusStartingUnits": [],
+		"aiMajorCivBonusStartingUnits": [Settler,Settler,Settler,Settler,Warrior,Warrior,Scout],
 		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 1,
 		"aisExchangeTechs": true,
